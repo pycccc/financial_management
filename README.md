@@ -1,1 +1,1 @@
-# financial_management
+This is a website of finanical management
